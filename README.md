@@ -6,7 +6,7 @@ https://greenfactory-es.github.io/
 Planing:
 
 Repaso general de plantilla:
-
+0. Error cambiar link menú arriba
 1. Imagen, más links del logo chatarrero.
 2. Logo presentación (probar imagen alargada de fondo).
 3. Artículos: repasar links e imágenes.
